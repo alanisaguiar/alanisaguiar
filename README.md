@@ -26,6 +26,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
+  <img src="https://github.com/user-attachments/assets/5edf3674-54fb-43a7-a8ed-294064bb8cc9" height="30" alt="manim logo" />
+  <img width="12" />
+  <img src="https://images.seeklogo.com/logo-png/39/2/numpy-logo-png_seeklogo-398690.png" height="30" alt="numpy logo" />
+  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/098fc150-f92d-4cf0-940f-f6598a259063" height="30" alt="mlp logo" />
+  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/146cf64d-9c74-4326-b77e-baf6a0302034" height="30" alt="mlp logo" />
+  <img width="12" />
 </div>
 
 ###
