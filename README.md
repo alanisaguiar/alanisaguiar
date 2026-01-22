@@ -34,6 +34,12 @@
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/146cf64d-9c74-4326-b77e-baf6a0302034" height="30" alt="mlp logo" />
   <img width="12" />
+  <img src="https://github.com/user-attachments/assets/6d909b0e-19af-4d41-80fa-2a6973c68e6f" height="30" alt="sql logo" />
+  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/118c0a77-f657-4fec-8a00-64054b88be1e" height="30" alt="insomnia logo" />
+  <img width="10" />
+  <img src="https://github.com/user-attachments/assets/7e7c0bbc-97b0-485b-836b-60e1c27c46fd" height="30" alt="dbeaver logo" />
+  <img width="12" />
 </div>
 
 ###
